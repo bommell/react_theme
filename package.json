@@ -1,5 +1,5 @@
 {
-  "name": "react-tutorials",
+  "name": "react_theme",
   "version": "0.0.0",
   "main": "webpack.config.js",
   "dependencies": {
